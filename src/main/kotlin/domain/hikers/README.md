@@ -1,4 +1,3 @@
 # Hikers
 
-Ce sous-domaine concerne les informations des randonneurs, leur niveau d'habileté et leur statut d'adhésion, ainsi que les informations relatives aux certifications des organisateurs de randonnée.
-  
+Ce sous-domaine concerne l'enregistrement des randonneurs avec une invitation et une décharge, leurs informations personnelles, leur habileté et leur statut d'adhésion. Il comprend les certifications et les niveaux des organisateurs approuvés par un administrateur. Pour un mineur, la décharge est acceptée par un tuteur légal nommé. L'émission des invitations et le traitement administratif des adhésions restent hors périmètre.

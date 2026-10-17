@@ -1,4 +1,3 @@
 # Hikes
 
-Ce sous-domaine concerne la gestion du cycle de vie des randonnées du club Cairn. Il couvre la création, la consultation, la fermeture et l'annulation des randonnées, ainsi que leurs caractéristiques et leurs règles de planification.
-  
+Ce sous-domaine concerne la création, la consultation, la fermeture automatique et l'annulation des randonnées. Il regroupe leurs caractéristiques, les règles de planification et l'historique des statuts avec leur responsable. Il utilise les informations des sentiers et les certifications des organisateurs. Le déroulement physique des randonnées et les présences ne sont pas suivis.

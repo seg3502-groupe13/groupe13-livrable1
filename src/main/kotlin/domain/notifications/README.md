@@ -1,4 +1,3 @@
 # Notifications
 
-Ce sous-domaine gère les communications par courriel liées aux événements de randonnée. Il comprend l'envoi des confirmations d'inscription, des avis d'annulation, des notifications concernant la liste d'attente et des rappels de randonnée, incluant les avertissements météorologiques lorsque les prévisions sont disponibles.
-    
+Ce sous-domaine gère les courriels de confirmation, de liste d'attente, de promotion et d'annulation, ainsi que les rappels envoyés aux participants confirmés un jour avant la randonnée. Le rappel contient les informations pratiques et un avertissement si de la pluie ou de la neige est prévue. Sans prévisions disponibles, le rappel est envoyé sans avertissement.
